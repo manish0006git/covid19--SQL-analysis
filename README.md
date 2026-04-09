@@ -13,8 +13,9 @@ deaths, and vaccinations across 200+ countries (2020–2023).
 - Time-series analysis
 
 ## Dataset
-Source: Our World in Data
+Source: Our World in Data, Download it from here 
 https://ourworldindata.org/covid-deaths
+
 
 ## How to Run
 1. Import schema.sql to create tables
